@@ -2,7 +2,7 @@
 A fully responsive and beautifully designed website for an educational institute built using HTML, CSS, and JavaScript. This project showcases essential pages such as Home, About, Courses, Admissions, Faculty, Gallery, Contact, and Login. It’s ideal for colleges, schools, or training centers.
 
 <div align="center">
-  <img src="Capture121" alt="DevOpsShack Banner">
+  <img src="Capture121.PNG" alt="DevOpsShack Banner">
 </div>
 🧠 Features
 ✅ Modern, mobile-first design
@@ -16,7 +16,7 @@ A fully responsive and beautifully designed website for an educational institute
 ✅ Dark/Light mode toggle (optional)
 
 <div align="center">
-  <img src="Capture148" alt="DevOpsShack Banner">
+  <img src="Capture148.PNG" alt="DevOpsShack Banner">
 </div>
 
 🛠️ Technologies Used

@@ -1,0 +1,30 @@
+/* =========== VARIABLES =========== */
+:root{
+    --red-orange-color-wheel: #FFB703;
+    --ultramarine-blue: #0062ff;
+    --lavender-blue: #d2dafe;
+    --oxford-blue: #050e38;
+    --light-gray: #cccccc;
+    --sonic-silver: #787878;
+    --blue-crayola: #0d6dfd;
+    --cultured: #f2f3f7;
+    --white: #ffffff;
+
+    --fs-1: 38px;
+    --fs-2: 35px;
+    --fs-3: 30px;
+    --fs-4: 22px;
+    --fs-5: 20px;
+    --fs-6: 15px;
+
+    --fw-5: 500;
+    --fw-6: 600;
+    --fw-7: 700;
+    --fw-8: 800;
+    --fw-9: 900;
+
+    --px: 15px;
+    --py: 80px;
+
+    --default-transition: 0.25s ease;
+}
